@@ -2,4 +2,3 @@
 - 👀 I’m interested in learning latest technologies
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on social media projects
-- 📫 Reach me @ j.alfawadleh@gmail.com
